@@ -1,6 +1,6 @@
 # Secure-IoT-EdgeGateway
 
-Bu repo, endüstriyel IoT veri toplama ve güvenli bulut iletişimi için tasarlanmış modüler bir güvenli uç ağ geçidi prototipinin ürün yazılımını ve dokümantasyonunu içermektedir.
+  Bu repo, endüstriyel IoT veri toplama ve güvenli bulut iletişimi için tasarlanmış modüler bir güvenli uç ağ geçidi prototipinin ürün yazılımını ve dokümantasyonunu içermektedir.
 
 ## Sisteme Genel Bakış
 
@@ -14,10 +14,11 @@ Sistem mimarisi içerir:
 
 ## Repository Yapısı
 
-- `stm32-firmware/` : STM32 sensor and communication firmware
-- `esp32-gateway/` : ESP32 gateway software
-- `docs/` : architecture and development notes
+- `stm32-firmware/` : STM32 sensör ve haberleşme firmware
+- `esp32-gateway/` : ESP32 gateway yazılımı
+- `docs/` : Mimari ve Geliştirme Notları
 
-## Şuanki durum
+## Rapor 3 İlerlemesi
 
-Initial software architecture, communication flow, and firmware skeletons have been prepared.
+  Bu aşamada proje, donanım entegrasyon planlamasına odaklandı.
+Aşamalı modüler bir prototipleme yaklaşımı tanımlandı, mevcut donanım bileşenleri değerlendirildi ve sistemin ilk fiziksel entegrasyon sırası belirlendi.
