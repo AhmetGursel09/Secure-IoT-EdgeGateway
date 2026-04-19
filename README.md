@@ -18,7 +18,7 @@ Sistem mimarisi içerir:
 - `esp32-gateway/` : ESP32 gateway yazılımı
 - `docs/` : Mimari ve Geliştirme Notları
 
-## Rapor 3 İlerlemesi
+## Rapor 4 İlerlemesi
 
-  Bu aşamada proje, donanım entegrasyon planlamasına odaklandı.
-Aşamalı modüler bir prototipleme yaklaşımı tanımlandı, mevcut donanım bileşenleri değerlendirildi ve sistemin ilk fiziksel entegrasyon sırası belirlendi.
+  Bu aşamada projede ADXL345 ve ESP32 pin headerlar lehimlendi.
+STM32 ve ADXL345 arası bağlantılar yapıldı.
