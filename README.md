@@ -18,7 +18,6 @@ Sistem mimarisi içerir:
 - `esp32-gateway/` : ESP32 gateway yazılımı
 - `docs/` : Mimari ve Geliştirme Notları
 
-## Rapor 4 İlerlemesi
+## Rapor 5 İlerlemesi
 
-  Bu aşamada projede ADXL345 ve ESP32 pin headerlar lehimlendi.
-STM32 ve ADXL345 arası bağlantılar yapıldı.
+Bu aşamada soic8 to dip8 adaptör, montajı bitmemiş smart car 4wd ve L298 motor temin edildi. IoT Hardening ve güvenli kod yazımı üzerinde duruldu.  
